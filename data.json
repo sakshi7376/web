@@ -1,0 +1,23 @@
+{
+    "pieChartData": {
+      "labels": ["Mining", "Exchanges", "Transactions", "Investments"],
+      "datasets": [
+        {
+          "data": [30, 15, 40, 15],
+          "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4CAF50"]
+        }
+      ]
+    },
+    "tableData": {
+      "headers": ["Date", "Bitcoin Price", "Transactions"],
+      "rows": [
+        ["Jan 2022", 35000, 65000],
+        ["Feb 2022", 38000, 70000],
+        ["Mar 2022", 42000, 80000],
+        ["Apr 2022", 40000, 75000],
+        ["May 2022", 45000, 90000],
+        ["Jun 2022", 48000, 95000]
+      ]
+    }
+}
+  
